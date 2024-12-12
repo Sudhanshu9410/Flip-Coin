@@ -21,7 +21,7 @@ Follow these steps to set up and run the Flip Coin Game on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/flip-coin-game.git
+   git clone [https://github.com/yourusername/flip-coin-game.git](https://github.com/Sudhanshu9410/Flip-Coin)
    cd flip-coin-game
    ```
 
