@@ -107,10 +107,7 @@ function FlipCoin() {
 export default FlipCoin;
 ```
 
-## Screenshots
 
-### Game Interface
-![Game Interface](https://via.placeholder.com/800x400?text=Flip+Coin+Game+UI)
 
 ## License
 
